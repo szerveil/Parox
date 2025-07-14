@@ -42,7 +42,7 @@ export default function LandingPage() {
               <div className="flex items-center text-sm justify-center text-slate-400">
                 <div className="flex items-center gap-1">
                   <a href="https://github.com/szerveil/ParoxInjector"><Github className="cursor-pointer hover:sepia active:text-amber-800 h-5 w-5 ml-2 "/></a>
-                  <a href="https://discord.gg/DfPdxtPxcQ"><img src="/discord.svg" className="cursor-pointer hover:sepia w-5 ml-2"/></a>
+                  <a href="https://discord.gg/DfPdxtPxcQ"><img src="/discord.svg" className="cursor-pointer hover:brightness-[.75] active:brightness-[.5] w-5 ml-2"/></a>
                 </div>
               </div>
             </div>
