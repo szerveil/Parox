@@ -12,7 +12,7 @@ export default function LandingPage() {
       {/* Simplified Header */}
       <header className="before:backdrop-blurrelative backdrop-brightness-75 px-6 h-16 flex items-center justify-between md:sticky md:top-0">
         <div className="flex items-center">
-          <img src="./Icon.png" alt="Parox Logo" className="h-12 w-12 rounded-full" />
+          <img src="./icon.png" alt="Parox Logo" className="h-12 w-12 rounded-full" />
         </div>
       </header>
 
