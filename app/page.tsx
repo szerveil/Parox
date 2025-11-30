@@ -31,13 +31,13 @@ export default function LandingPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <div className="flex flex-col items-center gap-1">
-              <a href="https://github.com/szerveil/ParoxInjector/releases/download/net8-release/Parox-x64.zip">
+              <a href="https://github.com/szerveil/ParoxInjector/releases/download/v2.0.0/Parox-x64.zip">
                 <Button size="lg" className="cursor-pointer px-8 py-3">
                   <Download className="mr-2 h-5 w-5" />Download
                 </Button>
               </a>
               
-              <p className="text-slate-400 text-sm">Version: 1.0.0</p>
+              <p className="text-slate-400 text-sm">Version: 2.0.0</p>
 
               <div className="flex items-center text-sm justify-center text-slate-400">
                 <div className="flex items-center gap-1">
